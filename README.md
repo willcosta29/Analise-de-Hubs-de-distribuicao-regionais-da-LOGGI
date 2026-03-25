@@ -66,7 +66,7 @@ A análise dos dados permitiu extrair as seguintes observações operacionais:
 ## 🚀 Como Executar o Projeto
 
 1.  **Acessar o Google Colab:**
-    * Acesse [colab.research.google.com]([https://colab.research.google.com](https://colab.research.google.com/github/willcosta29/Analise-de-Hubs-de-distribuicao-regionais-da-LOGGI/blob/main/Projeto_Analise_exploratoria_de_dados.ipynb))
+    * Acesse [colab.research.google.com]([https://colab.research.google.com](https://colab.research.google.com/github/willcosta29/Analise-de-Hubs-de-distribuicao-regionais-da-LOGGI/blob/main/Projeto_Analise_exploratoria_de_dados.ipynb)
 
 2.  **Abrir o Notebook:**
     * Faça o upload do arquivo `.ipynb` do projeto para o Colab (Arquivo > Upload notebook...).
